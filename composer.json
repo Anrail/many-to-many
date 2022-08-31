@@ -1,10 +1,11 @@
 {
-    "name": "armincms/many-to-many",
-    "description": "A Laravel Nova field.",
+    "name": "anrail/many-to-many",
+    "description": "A Laravel Nova field. Fork armincms/many-to-many",
     "keywords": [
         "laravel",
         "nova",
-        "armincms"
+        "armincms",
+        "anrail"
     ],
     "license": "MIT",
     "require": {
