@@ -95,7 +95,7 @@ trait ResolvesFields
      */
     public function pivotFieldsFor($request, $resource)
     {
-        $field = $this->relatedFieldFor($request, $resource, $request->field); 
+        $field = $this->relatedFieldFor($request, $resource, $request->field);
 
         if($field && isset($field->fieldsCallback)) {
             return FieldCollection::make(array_values(
