@@ -20,7 +20,7 @@ A Laravel Nova field for polymorphic and non-polymorphic `ManyToMany` relationsh
 
 ## Install
 ```bash
-composer require armincms/many-to-many
+composer require anrail/many-to-many
 ``` 
   
 ## Simple Usage  
